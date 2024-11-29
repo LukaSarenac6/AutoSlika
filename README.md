@@ -77,7 +77,7 @@ You're reading it!
 
 | Before  | After |
 | ------------- | ------------- |
-| ![Binary Threshold](test_images/test2.jpg)| ![Binary Threshold Applied](masked.jpg) |
+| ![Binary Threshold](test_images/test1.jpg)| ![Binary Threshold Applied](masked.jpg) |
 
 #### 3. Describe how (and identify where in your code) you performed a perspective transform and provide an example of a transformed image.
 
